@@ -51,7 +51,7 @@ React-Native-Labs/
 ├── Lab9/
 │
 └── README.md
-#########################################
+---
 Cách chạy project
 1. Clone repository
 git clone https://github.com/B1t-Phun/React-Native-Labs.git
