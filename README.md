@@ -18,21 +18,19 @@ Các bài thực hành tập trung vào giao diện, xử lý tương tác ngư�
 
 ---
 
-## 📚 Danh sách bài thực hành
-
-## 📚 Danh sách bài thực hành
+## Danh sách bài thực hành
 
 | Lab | Tên bài | Nội dung chính |
 |-----|---------|----------------|
-| **Lab 1** | 💎 I Am Rich | Hiển thị hình ảnh, tương tác và animation |
-| **Lab 2** | 💳 MiCard | Thiết kế danh thiếp cá nhân |
-| **Lab 3** | 🎲 Dice | Xúc xắc ngẫu nhiên và tính tổng |
-| **Lab 4** | 🎱 Magic 8 Ball | Nhập câu hỏi và trả lời ngẫu nhiên |
-| **Lab 5** | 🎵 Xylophone | Phát âm thanh khi tương tác với các phím |
-| **Lab 6** | ❓ Quizzler | Trắc nghiệm Đúng/Sai, tính điểm và câu hỏi ngẫu nhiên |
-| **Lab 7** | 🎯 Boss Level Challenge 2 | Game, timer, mạng, combo và mục tiêu di chuyển |
-| **Lab 8** | 🧮 BMI Calculator | Nhập dữ liệu, tính BMI và hiển thị kết quả |
-| **Lab 9** | 🌤️ Clima | Tra cứu thời tiết thông qua API |
+| **Lab 1** | I Am Rich | Hiển thị hình ảnh, tương tác và animation |
+| **Lab 2** | MiCard | Thiết kế danh thiếp cá nhân |
+| **Lab 3** | Dice | Xúc xắc ngẫu nhiên và tính tổng |
+| **Lab 4** | Magic 8 Ball | Nhập câu hỏi và trả lời ngẫu nhiên |
+| **Lab 5** | Xylophone | Phát âm thanh khi tương tác với các phím |
+| **Lab 6** | Quizzler | Trắc nghiệm Đúng/Sai, tính điểm và câu hỏi ngẫu nhiên |
+| **Lab 7** | Boss Level Challenge 2 | Game, timer, mạng, combo và mục tiêu di chuyển |
+| **Lab 8** | BMI Calculator | Nhập dữ liệu, tính BMI và hiển thị kết quả |
+| **Lab 9** | Clima | Tra cứu thời tiết thông qua API |
 
 ---
 ---
